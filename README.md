@@ -1,7 +1,7 @@
 ### Hi there, I'm Fawaz Aldossary 👋
 
 I'm a **Computer Information Systems (CIS)** student with a strong passion for software engineering.
-I have built a solid foundation in programming logic using **C++** and **Python**, and I am currently specializing in **Java** and **Object-Oriented Programming**.
+I have built a solid foundation in programming logic using **C++** and **Python**, and I am currently specializing in **Object-Oriented Programming with Java**.
 
 ---
 
@@ -17,9 +17,9 @@ I have built a solid foundation in programming logic using **C++** and **Python*
 </p>
 
 ### 🔭 Currently Focusing on
-- ☕ **Advanced Java:** Moving from OOP basics to advanced concepts and data structures.
-- 🎓 **Academic Archive:** Building a clean, organized repository for my university labs and projects.
-- 🔄 **Code Transition:** Applying concepts learned in C++/Python to build robust Java applications.
+- 🚀 **Building Personal Projects:** Applying my skills to create my own applications and solve real-world problems.
+- 🌱 **Self-Development:** Continuously improving my coding style, logic, and problem-solving skills beyond the university curriculum.
+- ☕ **Deepening Java Mastery:** Moving to advanced topics to build robust and scalable software.
 
 ### 📫 Connect with me
 - **LinkedIn:** [ضع رابط حسابك هنا]
