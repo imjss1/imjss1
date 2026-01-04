@@ -16,8 +16,8 @@ I'm a Computer Science Student passionate about software development. Currently 
 - 💻 Building comprehensive archives for my university labs.
 
 ### 📫 How to reach me
-- **Email:** [ضع إيميلك هنا]
-- **LinkedIn:** [ضع رابط حسابك هنا]
+- **Email:** [fawazaldossary40@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/fawaz-aldossary-a40757385]
 
 ---
 <p align="center">
