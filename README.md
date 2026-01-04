@@ -24,8 +24,8 @@ I have built a solid foundation in programming logic using **C++** and **Python*
 - ☕ **Deepening Java Mastery:** Moving to advanced topics to build robust and scalable software.
 
 ### 📫 Connect with me
-- **LinkedIn:** [ضع رابط حسابك هنا]
-- **Email:** [ضع إيميلك هنا]
+- **LinkedIn:** [www.linkedin.com/in/fawaz-aldossary-a40757385]
+- **Email:** [Fawazaldossary40@gmail.com]
 
 ---
 <p align="center">
