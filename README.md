@@ -25,7 +25,7 @@ I have built a solid foundation in programming logic using **C++** and **Python*
 
 ### 📫 Connect with me
 - **LinkedIn:** [www.linkedin.com/in/fawaz-aldossary-a40757385]
-- **Email:** [Fawazaldossary40@gmail.com]
+- **Email:** [fawazaldossary40@gmail.com]
 
 ---
 <p align="center">
