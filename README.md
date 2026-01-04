@@ -28,7 +28,6 @@ I have built a solid foundation in programming logic using **C++** and **Python*
 - **Email:** [fawazaldossary40@gmail.com](mailto:fawazaldossary40@gmail.com)
 
 ---
-### 📊 GitHub Stats
-![imjss1's Stats](https://github-readme-stats.vercel.app/api?username=imjss1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjss1&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imjss1&show_icons=true&theme=tokyonight&hide_border=true" alt="imjss1 stats" />
+</div>
